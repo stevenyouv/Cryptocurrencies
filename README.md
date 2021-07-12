@@ -1,4 +1,4 @@
-# Crytocurrencies
+# Cryptocurrencies
 
 ## Project Overview
 
